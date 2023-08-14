@@ -9,9 +9,26 @@ I'm a passionate Java developer from Russia who's eager to learn and grow in the
 - 🎓 Improving my coding skills daily.
 - 🤝 Open to collaborations and learning from others.
 
+## 📩 Contact me 
+
+- [Telegram](https://t.me/MoXuT0)
+
 ## 💻 Tech Stack
 
-- Programming Languages: Java
-- Tools & Technologies: Spring framework, PostgreSQL, Hibernate, JUnit, Mockito, Docker
-- Version Control: Git
-- IDE: IntelliJ IDEA
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+## 🔥 My stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=moxut0&theme=dark&background=000000)](https://git.io/streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moxut0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
